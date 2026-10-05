@@ -1,0 +1,7 @@
+{
+  "name": "AccessAble AI",
+  "description": "Understand Anything. Access Everything. An AI-powered accessibility platform to simplify complex text, translate across languages, and listen with natural speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
